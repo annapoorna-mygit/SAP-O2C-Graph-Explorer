@@ -1,0 +1,21 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.pyc
+backend/.env
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+
+# Data (large — never commit raw JSONL exports or zips)
+data/
+sap-o2c-data/
+*.zip
+
+# Editor
+.vscode/
+.idea/
+*.swp
