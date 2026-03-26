@@ -2,8 +2,9 @@
 
 A **context graph system with an LLM-powered query interface** over SAP Order-to-Cash data.
 
-**Live Demo**: [TODO — add Vercel URL]  
-**GitHub**: [this repo]
+**Live Demo**: https://sap-o2-c-graph-explorer-63lx.vercel.app  
+**Backend API**: https://sap-o2c-graph-explorer-i170.onrender.com  
+**GitHub**: https://github.com/annapoorna-mygit/SAP-O2C-Graph-Explorer
 
 ---
 
